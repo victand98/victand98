@@ -2,14 +2,22 @@
 
 **`Full Stack Developer`**
 
-Hi there! I'm an Ecuadorian Full Stack developer with more than 3 years of experience working on projects mainly with JavaScript, TypeScript, React and Node.js, using agile methodologies (SCRUM and XP). Currently I'm completing my studies in Systems Engineering. I consider myself a person passionate about learning something new every day.
+Hi there! I'm an Ecuadorian Full Stack developer with more than 3 years of experience working on projects mainly with JavaScript, TypeScript, React and Node.js, using agile methodologies (SCRUM and XP). I consider myself a person passionate about learning something new every day.
 
-   <p align="left">
-      <a href="https://github.com/victand98?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/victand98?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/victand98?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/victand98?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-        <a href="https://www.linkedin.com/in/victorandresrojas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <p align="left" target="_blank">
+    <a href="https://www.victorandresrojas.com">
+        <img alt="My Portfolio" title="Víctor Andrés Rojas Portfolio" src="https://custom-icon-badges.demolab.com/badge/-My%20Portfolio-3A7CA5?style=for-the-badge&logoColor=white&logo=victorandresrojasportfolio"/>
+    </a>
+    <a href="https://www.linkedin.com/in/victorandresrojas" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="Linkedin" title="My Linkedin profile">
+    </a>
+    <a href="https://github.com/victand98?tab=followers">
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/victand98?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+    <a href="https://github.com/victand98?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/victand98?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    </a>
    </p>
 
 ---
@@ -96,4 +104,4 @@ Hi there! I'm an Ecuadorian Full Stack developer with more than 3 years of exper
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Víctor Andrés Rojas' Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=victand98&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Víctor Andrés Rojas' Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=victand98&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
