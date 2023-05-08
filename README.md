@@ -29,11 +29,12 @@ Hi there! I'm Victor Andrés, a Full Stack developer with over 3 years of experi
 <p>
     <a href="https://github.com/search?q=user%3Avictand98+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avictand98+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3Avictand98+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Avictand98+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-820C02.svg?logo=ruby&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avictand98+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avictand98+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avictand98+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avictand98+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Avictand98+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avictand98+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Avictand98+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
 </p>
@@ -44,8 +45,10 @@ Hi there! I'm Victor Andrés, a Full Stack developer with over 3 years of experi
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Next JS" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-EA2845.svg?logo=nestjs&logoColor=white"></a>
+    <a href="#"><img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-D30001.svg?logo=rubyonrails&logoColor=white"></a>
     <a href="#"><img alt="Svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?&logo=svelte&logoColor=white"></a>
-    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D"></a>
+    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D"></a>
     <a href="#"><img alt="Nuxt JS" src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxtdotjs&logoColor=#00DC82"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white"></a>
