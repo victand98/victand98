@@ -2,7 +2,7 @@
 
 **`Full Stack Developer`**
 
-Hi there! I'm Victor Andrés, a Full Stack developer with over 3 years of experience in the technology industry. I love creating efficient and scalable web solutions using modern technologies such as JavaScript, TypeScript, React, Node.js and Ruby on Rails. My passion for technology has led me to constantly learn and collaborate with other professionals in the industry. I consider myself a proactive, responsible, and committed person to the success of the team and the projects I work on.
+Hi there! I'm Victor Andrés, a Full Stack developer with over 3 years of experience in the technology industry. I love creating efficient and scalable web solutions using modern technologies such as JavaScript, TypeScript, React and Node.js. My passion for technology has led me to constantly learn and collaborate with other professionals in the industry. I consider myself a proactive, responsible, and committed person to the success of the team and the projects I work on.
 
    <p align="left" target="_blank">
     <a href="https://www.victorandresrojas.com">
