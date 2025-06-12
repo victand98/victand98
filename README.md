@@ -5,7 +5,7 @@
 Hi there! I'm Victor Andrés, a Full Stack developer with over 3 years of experience in the technology industry. I love creating efficient and scalable web solutions using modern technologies such as JavaScript, TypeScript, React and Node.js. My passion for technology has led me to constantly learn and collaborate with other professionals in the industry. I consider myself a proactive, responsible, and committed person to the success of the team and the projects I work on.
 
    <p align="left" target="_blank">
-    <a href="https://www.victorandresrojas.com">
+    <a href="https://www.victorandresrojas.me">
         <img alt="My Portfolio" title="Víctor Andrés Rojas Portfolio" src="https://custom-icon-badges.demolab.com/badge/-My%20Portfolio-3A7CA5?style=for-the-badge&logoColor=white&logo=victorandresrojasportfolio"/>
     </a>
     <a href="https://www.linkedin.com/in/victorandresrojas" target="_blank">
